@@ -11,8 +11,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         print("initial commit")
         print("prepared to release")
+        print("fixed bugs")
 
     }
 
