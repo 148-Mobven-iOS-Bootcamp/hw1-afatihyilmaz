@@ -12,7 +12,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+
         print("add some features")
+
+        print("added some features")
+
         
 
     }
