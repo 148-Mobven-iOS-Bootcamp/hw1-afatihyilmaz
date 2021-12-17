@@ -12,7 +12,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+
         print("changed background color")
+
+        print("created feature D")
+
         
 
     }
