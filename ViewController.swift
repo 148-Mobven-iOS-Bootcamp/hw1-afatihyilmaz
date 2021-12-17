@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        print("created feature B branch and developed develop branch")
+        print("still developed develop branch")
         
 
     }
