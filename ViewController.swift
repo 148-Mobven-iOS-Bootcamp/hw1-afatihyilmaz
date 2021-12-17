@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        print("still developed develop branch")
+        print("fixed bugs")
         
 
     }
