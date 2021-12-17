@@ -14,12 +14,17 @@ class ViewController: UIViewController {
 
 
 
+
         print("changed background color")
 
         print("created feature D")
 
 
         print("add some features")
+        print("add some features")
+
+        print("added some features")
+
 
         
 
