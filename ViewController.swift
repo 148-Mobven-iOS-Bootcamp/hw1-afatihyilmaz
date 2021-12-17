@@ -13,9 +13,13 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
 
+
         print("changed background color")
 
         print("created feature D")
+
+
+        print("add some features")
 
         
 
