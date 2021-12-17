@@ -12,8 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        print("changed login button")
-        
+        print("changed logos")
+    
 
     }
 
