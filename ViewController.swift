@@ -12,8 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        print("update develop branch")
-        print("created feature A branch")
+        print("merged featureA and developed develop branch")
+        
 
     }
 
